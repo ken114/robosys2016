@@ -13,3 +13,4 @@ robosys2016の課題
 6. $make clean
 
 #動画
+https://youtu.be/dxOV5e0sRcI

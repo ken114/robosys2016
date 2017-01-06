@@ -11,3 +11,5 @@ robosys2016の課題
 4. $echo 2 > /dev/myled0
 5. $sudo rmmod myled
 6. $make clean
+
+#動画
